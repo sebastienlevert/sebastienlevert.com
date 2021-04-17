@@ -1,0 +1,60 @@
+---
+author: Sébastien Levert
+categories:
+- AngularJS
+- Office 365
+- Office365Dev
+- SharePoint Online
+- Microsoft Graph
+- SPC Adriatics
+date: "2016-06-04T22:59:28Z"
+description: ""
+draft: false
+image: /images/2016/06/SPCAdriatics2016-1.png
+slug: spc-adriatics-2016
+tags:
+- AngularJS
+- Office 365
+- Office365Dev
+- SharePoint Online
+- Microsoft Graph
+- SPC Adriatics
+title: SPC Adriatics 2016
+---
+
+
+![](/content/images/2016/06/SPCAdriatics2016.png)
+
+When I left Paris for the SPC Adriatics in Zagreb, I knew that this week was going to be epic. But I did not think that it was going to as epic as is was. I did experience a conference that I would score 10/10. It was just perfect, every details were polished and I met a lot of awesome people, both attendees and speakers in the different events around the conference. [Adis](https://twitter.com/adisugo), [Toni](https://twitter.com/ToniFrankola), [Nenad](https://twitter.com/ntrajkovski) and Branka did an amazing job organizing a conference that will stick in minds of people that attended. They made it huge for the attendees (an impressive speakers lineup, an awesome venue and great food!) and huge for the speakers (awesome theme around Star Wars, great speaker social events and great to see and make new friends from all around the world!).
+
+I had 2 sessions during the event. The first one was an express talk on Oceanik, a multilingual manager for SharePoint. This session was part of the sponsorship of Oceanik during the event and I was lucky enough to be its product owner! It was great and lots of people were interested in this topic. If you want more information on the product, feel free to go on the [website](http://www.oceanik.com) or to ping [me](https://twitter.com/sebastienlevert) directly!
+
+The second session was, again, my classic session on AngularJS and the Microsoft Graph! The development track was insanely packed throughout the 2 days of the conference and I couldn't expect a better audience! What I found here, is that people are doing a lot more client side development and AngularJS / React with SharePoint and Office 365. That can only be an awesome thing when we are looking at what is coming for the SharePoint Framework in the coming months. This time, the live session went perfectly and I could get everything set up to make sure everyone can get a glimpse of that AngularJS thing with the Microsoft Graph!
+
+##The abstract
+Every developer hears about AngularJS and all the magic it does for you applications. In order to kickstart you AngularJS journey, this session is an introduction to the AngularJS concepts applied to any Office 365 development. Different workloads will be targeted (Mail, Calendar, Files) and the Microsoft Graph will be our main datasource.
+
+As a developer, you will learn the basic concepts of AngularJS and will be able to use those in an Office 365 context. You will be able to build rich applications (Single Page Application) that will speed up your development process while using your Office 365 tenant data.
+
+The 3 key takeaways of this session are :
+
+* You will understand the basics of the AngularJS framework
+* You will learn how to communicate withthe Office 365 through AngularJS
+* You will be able to apply those new skills in your next project
+
+##The slides
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FbebY1NgtYzFjE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sebastienlevert/spc-adriatics-2016-introduction-to-angularjs-with-the-microsoft-graph" title="SPC Adriatics 2016 - Introduction to AngularJS with the Microsoft Graph" target="_blank">SPC Adriatics 2016 - Introduction to AngularJS with the Microsoft Graph</a> </strong> from <strong><a href="//www.slideshare.net/sebastienlevert" target="_blank">Sébastien Levert</a></strong> </div>
+
+##The code
+You can find the code of the provided OfficeHub AngularJS application on my Github available right here :https://github.com/sebastienlevert/officehub.
+
+##The photos
+![](/content/images/2016/06/CjyZggrWkAABc2_.jpg)
+![](/content/images/2016/06/Cj3iaygWEAALMVu.jpg)
+![](/content/images/2016/06/Cj3k9BzWYAATORb.jpg)
+![](/content/images/2016/06/Cj3tWGAWUAAPlPV.jpg)
+![](/content/images/2016/06/Cj3REj3WgAANUk5.jpg)
+*Thanks to [Elio Struyf](https://twitter.com/eliostruyf) for the pictures!*
+
+##Closing note
+Thanks everyone who attended my session! Thanks to Adis and the team for the opportunity to give this session at such a great Office 365 / SharePoint community and I cross my fingers to come back next year for more awesome stuff around client-side development and the Microsoft Graph!
