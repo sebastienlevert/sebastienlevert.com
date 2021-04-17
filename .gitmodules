@@ -1,0 +1,4 @@
+
+[submodule "site/themes/hugo-theme-chunky-poster"]
+	path = site/themes/hugo-theme-chunky-poster
+	url = https://github.com/sebastienlevert/hugo-theme-chunky-poster.git
