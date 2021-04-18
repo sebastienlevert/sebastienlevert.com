@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 DisqusShortname: sebastienlevert
 title: "Seb's on #Microsoft365Dev"
 copyright: 'Copyright © 2015–2021, Sébatien Levert'
-theme: hugo-theme-chunky-poster
+theme: ['hugo-notice', 'hugo-theme-chunky-poster']
 summaryLength: 40
 menu:
   main:
