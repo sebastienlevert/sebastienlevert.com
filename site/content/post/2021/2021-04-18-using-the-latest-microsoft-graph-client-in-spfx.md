@@ -1,13 +1,13 @@
 ---
 authors:
-  - sebastien-levert
+  - sebastien-lever
 categories: null
 date: 2021-04-18T18:24:46.407Z
 images:
   - /images/2021/04/UsingGraphClientSPFx.png
 title: Using the latest microsoft-graph-client in SPFx
 slug: latest-microsoft-graph-client-spfx
-tags:
+categories:
   - Microsoft Graph
   - Typescript
   - SharePoint Framework
