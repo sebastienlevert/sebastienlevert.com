@@ -7,6 +7,10 @@ images:
   - /images/2021/04/UsingGraphClientSPFx.png
 title: Using the latest microsoft-graph-client in SPFx
 slug: latest-microsoft-graph-client-spfx
+tags:
+  - Microsoft Graph
+  - Typescript
+  - SharePoint Framework
 ---
 
 Lately, I've been looking at improving at understanding some of the challenges of developers when it comes to Microsoft
