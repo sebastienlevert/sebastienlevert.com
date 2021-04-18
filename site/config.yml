@@ -7,7 +7,6 @@ enableInlineShortcodes: true
 DisqusShortname: sebastienlevert
 title: "Seb's on #Microsoft365Dev"
 copyright: 'Copyright © 2015–2021, Sébatien Levert'
-googleAnalytics: UA-64259172-1
 theme: hugo-theme-chunky-poster
 summaryLength: 40
 menu:
@@ -48,6 +47,12 @@ params:
   prismJS:
     enable: true
     theme: tomorrow
+  clarity:
+    enable: true
+    trackingCode: 6bhi7msiik
+  appInsights:
+    enable: true
+    instrumentationKey: 076077d4-65ce-4d55-af42-8d9d9b331352
   social:
     rss: true
     twitter: 'https://twitter.com/sebastienlevert'
