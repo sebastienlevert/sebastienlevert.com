@@ -1,10 +1,10 @@
 ---
 authors:
-  - Sébastien Levert
+  - sebastien-levert
 date: '2020-01-16T07:31:41Z'
 description: ''
 draft: false
-url: office-365-sparx-use-the-forcelocale-parameter-to-debug-localizations-in-spfx
+slug: office-365-sparx-use-the-forcelocale-parameter-to-debug-localizations-in-spfx
 title: '[Office 365 Sparx] Use the forceLocale parameter to debug Localizations in SPFx'
 images:
   - /images/2020/01/Office-365-Sparx---forceLocale.png

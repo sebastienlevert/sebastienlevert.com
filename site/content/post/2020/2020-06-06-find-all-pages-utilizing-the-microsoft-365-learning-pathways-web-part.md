@@ -1,11 +1,12 @@
 ---
-author: Sébastien Levert
+authors:
+  - sebastien-levert
 categories:
   - PnP PowerShell
   - Microsoft 365 Learning Pathways
 date: '2020-06-06T00:32:44Z'
 draft: false
-url: find-all-pages-utilizing-the-microsoft-365-learning-pathways-web-part
+slug: find-all-pages-utilizing-the-microsoft-365-learning-pathways-web-part
 images:
   - /images/2020/06/M365LearningPathways.png
 tags:

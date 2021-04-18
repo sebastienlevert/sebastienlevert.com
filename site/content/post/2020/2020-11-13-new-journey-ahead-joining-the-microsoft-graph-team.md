@@ -9,7 +9,7 @@ description: ''
 draft: false
 images:
   - /images/2020/11/JoiningMicrosoftGraphTeam.png
-url: new-journey-ahead-joining-the-microsoft-graph-team
+slug: new-journey-ahead-joining-the-microsoft-graph-team
 tags:
   - Microsoft Graph
   - Microsoft

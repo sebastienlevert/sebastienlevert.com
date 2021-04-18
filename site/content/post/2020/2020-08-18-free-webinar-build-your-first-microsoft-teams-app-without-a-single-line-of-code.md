@@ -1,6 +1,6 @@
 ---
 authors:
-  - Sébastien Levert
+  - sebastien-levert
 categories:
   - Microsoft Teams
   - App Studio
@@ -11,7 +11,7 @@ description: ''
 draft: false
 images:
   - /images/2020/08/WebinarTeamsAppNoCode.png
-url: free-webinar-build-your-first-microsoft-teams-app-without-a-single-line-of-code
+slug: free-webinar-build-your-first-microsoft-teams-app-without-a-single-line-of-code
 tags:
   - Microsoft Teams
   - App Studio
