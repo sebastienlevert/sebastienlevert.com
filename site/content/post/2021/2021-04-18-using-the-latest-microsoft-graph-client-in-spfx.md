@@ -69,10 +69,10 @@ folder.
 }
 ```
 
-> [Andrew Connel](https://twitter.com/andrewconnell) has a great
-> [blog post](https://www.voitanos.io/blog/use-different-typescript-versions-in-sharepoint-framework-projects/) on how
-> to ensure you have the right version of the compiler based on the version of Typescript you want to play with. I
-> definitely recommend to have a look!
+{{% notice note  %}} [Andrew Connel](https://twitter.com/andrewconnell) has a great
+[blog post](https://www.voitanos.io/blog/use-different-typescript-versions-in-sharepoint-framework-projects/) on how to
+ensure you have the right version of the compiler based on the version of Typescript you want to play with. I definitely
+recommend to have a look! {{% /notice %}}
 
 Finally, you will want to remove the `no-use-before-declare` rule from `tslint.json` as it's not being used since
 Typescript 2.9 and you will get compiler errors when building.
@@ -129,7 +129,7 @@ const data = await Providers.globalProvider.graph.api('/me/events').get();
 The real beauty here? This call will be done using the default list of middlewares, including a default `RetryHandler`
 that should get your around throttling in a vast majority or the cases!
 
-{{% notice note  %}} Note that we are not using the `this.context.msGraphClientFactory.getClient()` capabilty as this
+{{% notice info  %}} Note that we are not using the `this.context.msGraphClientFactory.getClient()` capabilty as this
 would result in the 1.1.0 version of the `microsoft-graph-client`, therefore not getting the middleware list!
 {{% /notice %}}
 
