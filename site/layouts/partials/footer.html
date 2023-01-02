@@ -30,21 +30,16 @@
           {{- range $name, $path := .Site.Params.social -}}
             {{- if and $path (not (in (slice "rss" "email") $name)) -}}
               <li class="list-inline-item">
-                {{ if .Site.Params.social.mastodon }}
+                {{- if and $path (in (slice "mastodon") $name) -}}
                   <a rel="me" href="{{ $path | safeURL }}" class="icons d-block">
-                    <span class="fa-stack fa-lg">
-                      <i class="fa fa-circle fa-stack-2x"></i>
-                      <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse"></i>
-                    </span>
-                  </a>
                 {{ else }}
                   <a href="{{ $path | safeURL }}" class="icons d-block">
-                    <span class="fa-stack fa-lg">
-                      <i class="fa fa-circle fa-stack-2x"></i>
-                      <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse"></i>
-                    </span>
-                  </a>
                 {{- end -}}
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
               </li>
             {{- end -}}
           {{- end }}

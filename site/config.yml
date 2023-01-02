@@ -1,4 +1,4 @@
-baseURL: "https://www.sebastienlevert.com"
+baseURL: 'https://www.sebastienlevert.com'
 disablePathToLower: true
 languageCode: en-us
 MetaDataFormat: yaml
@@ -6,8 +6,8 @@ paginate: 12
 enableInlineShortcodes: true
 DisqusShortname: sebastienlevert
 title: "Seb's on #Microsoft365Dev"
-copyright: "Copyright © 2015–2021, Sébatien Levert"
-theme: ["hugo-notice", "hugo-theme-chunky-poster"]
+copyright: 'Copyright © 2015-2022, Sébastien Levert'
+theme: ['hugo-notice', 'hugo-theme-chunky-poster']
 summaryLength: 40
 menu:
   main:
@@ -39,7 +39,7 @@ params:
     - sebastien-levert
   description: >-
     Sébastien Levert's thoughts, stories and ideas around the Microsoft 365 Development platform!
-  dateFormat: "January 2, 2006"
+  dateFormat: 'January 2, 2006'
   showLanguageSwitcher: false
   share: true
   customCSS:
@@ -55,7 +55,7 @@ params:
     instrumentationKey: 076077d4-65ce-4d55-af42-8d9d9b331352
   social:
     rss: true
-    mastodon: "https://fosstodon.org/@sebastienlevert"
-    twitter: "https://twitter.com/sebastienlevert"
-    linkedin: "https://www.linkedin.com/in/sebastienlevert/"
-    github: "https://github.com/sebastienlevert"
+    mastodon: 'https://fosstodon.org/@sebastienlevert'
+    twitter: 'https://twitter.com/sebastienlevert'
+    linkedin: 'https://www.linkedin.com/in/sebastienlevert/'
+    github: 'https://github.com/sebastienlevert'
