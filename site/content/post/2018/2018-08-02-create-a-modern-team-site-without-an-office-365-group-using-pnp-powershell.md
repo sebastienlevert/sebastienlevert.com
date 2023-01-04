@@ -1,14 +1,8 @@
 ---
 authors: 
   - sebastien-levert
-categories:
-- Office 365
-- PnP PowerShell
-- SharePoint Online
 date: "2018-08-02T02:15:41.000Z"
 draft: false
-images: 
-- /images/2018/08/PnPPowerShellModernSite-1.png
 slug: create-a-modern-team-site-without-an-office-365-group-using-pnp-powershell
 images: 
 - /images/2018/08/PnPPowerShellModernSite.png

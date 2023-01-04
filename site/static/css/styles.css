@@ -1,3 +1,12 @@
+html {
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+.fa-rotate-90 {
+  filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+
 .embed-content {
   margin-bottom: 1.5rem;
 }
@@ -21,4 +30,20 @@
 
 .notice {
   padding-top: 0 !important;
+}
+
+@media (min-width: 992px) {
+  .pb-lg-7, .py-lg-7 {
+    padding-bottom: 1rem !important;
+    padding-top: 1rem !important;
+  }
+}
+
+.pb-6, .py-6 {
+  padding-bottom: 1rem!important;
+}
+
+.page-item.active .page-link {
+  background-color: #0c344b;
+  border-color: #0c344b;
 }

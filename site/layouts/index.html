@@ -44,11 +44,19 @@
       </div>
     {{- end -}}
 
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+
+
     <!-- Articles -->
     <div class="articles row row-cols-1 row-cols-lg-3">
-      {{ range after 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+      {{ range $paginator.Pages }}
         <div class="col mb-3">{{ .Render "card" }}</div>
       {{ end }}
     </div>
+    
+    {{ if gt $paginator.TotalPages 1 }}
+    {{ template "_default/pagination.html" . }}
+    {{ end }}
+    
   </main>
 {{ end }}

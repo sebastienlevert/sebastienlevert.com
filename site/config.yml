@@ -3,12 +3,13 @@ disablePathToLower: true
 languageCode: en-us
 MetaDataFormat: yaml
 paginate: 12
+paginatePath: page
 enableInlineShortcodes: true
 DisqusShortname: sebastienlevert
 title: "Seb's on #Microsoft365Dev"
 copyright: 'Copyright © 2015-2022, Sébastien Levert'
 theme: ['hugo-notice', 'hugo-theme-chunky-poster']
-summaryLength: 40
+summaryLength: 30
 menu:
   main:
     - identifier: home

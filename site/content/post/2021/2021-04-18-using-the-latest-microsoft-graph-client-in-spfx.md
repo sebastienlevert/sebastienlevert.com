@@ -1,7 +1,6 @@
 ---
 authors:
-  - sebastien-lever
-categories: null
+  - sebastien-levert
 date: 2021-04-18T18:24:46.407Z
 images:
   - /images/2021/04/UsingGraphClientSPFx.png

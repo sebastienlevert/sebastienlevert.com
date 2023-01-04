@@ -1,0 +1,152 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "/site/content/images",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/site/content"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "2toLead",
+    "Angular",
+    "Angular Elements",
+    "AngularJS",
+    "App Studio",
+    "ESPC",
+    "European SharePoint Community",
+    "Event",
+    "Hero WebPart",
+    "Hubsite",
+    "MSDEVMTL",
+    "MVP",
+    "MVPVConf",
+    "Microsoft",
+    "Microsoft 365 Learning Pathways",
+    "Microsoft Graph",
+    "Microsoft Power Apps",
+    "Microsoft Power Automate",
+    "Microsoft Teams",
+    "Modern SharePoint",
+    "Multilingual",
+    "Office 365",
+    "Office 365 API",
+    "Office 365 Sparx",
+    "Office365Dev",
+    "OneDrive",
+    "PnP",
+    "PnP PowerShell",
+    "PowerShell",
+    "SPC Adriatics",
+    "SPFx",
+    "SPSNYC",
+    "SPSOttawa",
+    "SPSQuebec",
+    "Search",
+    "SharePoint",
+    "SharePoint Framework",
+    "SharePoint Online",
+    "SharePoint Saturday",
+    "Twitter",
+    "Typescript",
+    "Valo",
+    "Visual Studio Code",
+    "Webinar",
+    "aOS",
+    "yOSTour"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "2tolead",
+    "Angular",
+    "Angular Elements",
+    "AngularJS",
+    "App Studio",
+    "ESPC",
+    "European SharePoint Community",
+    "Event",
+    "Hero WebPart",
+    "Hubsite",
+    "MSDEVMTL",
+    "MVP",
+    "MVPVConf",
+    "Microsoft",
+    "Microsoft 365 Learning Pathways",
+    "Microsoft Graph",
+    "Microsoft Power Apps",
+    "Microsoft Power Automate",
+    "Microsoft Teams",
+    "Modern SharePoint",
+    "Multilingual",
+    "Office 365",
+    "Office 365 API",
+    "Office 365 Sparx",
+    "Office365Dev",
+    "OneDrive",
+    "PnP",
+    "PnP PowerShell",
+    "PowerShell",
+    "SPC Adriatics",
+    "SPFx",
+    "SPSNYC",
+    "SPSOttawa",
+    "SPSQuebec",
+    "Search",
+    "SharePoint",
+    "SharePoint Framework",
+    "SharePoint Online",
+    "SharePoint Saturday",
+    "Twitter",
+    "Visual Studio Code",
+    "Webinar",
+    "aOS",
+    "valo",
+    "yOSTour"
+  ]
+}
