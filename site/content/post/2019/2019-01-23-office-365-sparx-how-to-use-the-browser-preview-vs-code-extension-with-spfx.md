@@ -32,8 +32,6 @@ I'm using Visual Studio Code (almost) everyday and I was excited when the
 [Browser Preview VS Code Extension](https://github.com/auchenberg/vscode-browser-preview) was announced as I really
 think this can speed up your development workflow!
 
-{{< twitter 1087508399732883456 >}}
-
 I was thinking "I'm sure this would work super nicely with the Local and Hosted Workbench of SharePoint... Let me test
 this out"! And you know what? It's pure awesomeness!
 

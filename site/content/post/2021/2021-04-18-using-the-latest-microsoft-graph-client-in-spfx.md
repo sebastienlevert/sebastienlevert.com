@@ -20,8 +20,6 @@ amazing, maybe a little bit magical! And that is why I love this technology!
 But a conversation sparked my interest and I started wondering if we could provide some guidances for developers that
 are hitting some limits (read throttling) when it comes to Microsoft Graph.
 
-{{< twitter 1382003257766121473 >}}
-
 ## A little backstory
 
 The SharePoint Framework was released in 2017 and Microsoft Graph support in 2018 (it's been a while!) and the

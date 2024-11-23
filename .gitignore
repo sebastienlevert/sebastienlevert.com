@@ -42,3 +42,5 @@ yarn.lock
 
 site/resources
 site/.hugo_build.lock
+
+site/public

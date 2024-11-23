@@ -20,7 +20,7 @@ summary:
 
 An interesting thread was initiated by [Loryan Strant](https://twitter.com/loryanstrant) on Twitter.
 
-{{< twitter_simple 1268763344988631040 >}}
+{{< twitter_simple user="loryanstrant" id="1268763344988631040" >}}
 
 ## The solution
 

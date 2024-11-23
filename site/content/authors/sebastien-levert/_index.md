@@ -1,5 +1,5 @@
 ---
 name: Sébastien Levert
-images: ["sebastienlevert.jpg"]
-twitter: 'sebastienlevert'
+images: ['sebastienlevert.jpg']
+account: 'sebastienlevert.com'
 ---

@@ -1,13 +1,14 @@
-baseURL: 'https://www.sebastienlevert.com'
+baseURL: /
 disablePathToLower: true
 languageCode: en-us
 MetaDataFormat: yaml
-paginate: 12
-paginatePath: page
+pagination:
+  pagerSize: 12
+  path: page
 enableInlineShortcodes: true
 DisqusShortname: sebastienlevert
 title: "Seb's on #Microsoft365Dev"
-copyright: 'Copyright © 2015-2022, Sébastien Levert'
+copyright: 'Copyright © Sébastien Levert'
 theme: ['hugo-notice', 'hugo-theme-chunky-poster']
 summaryLength: 30
 menu:
@@ -58,5 +59,6 @@ params:
     rss: true
     mastodon: 'https://fosstodon.org/@sebastienlevert'
     twitter: 'https://twitter.com/sebastienlevert'
+    bluesky: 'https://bsky.app/profile/sebastienlevert.com'
     linkedin: 'https://www.linkedin.com/in/sebastienlevert/'
     github: 'https://github.com/sebastienlevert'
