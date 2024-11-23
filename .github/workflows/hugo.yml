@@ -56,9 +56,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Montreal
         run: |
-          cd site && hugo \
-            --gc \
-            --minify"
+          cd site && hugo --gc --minify"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
