@@ -68,7 +68,7 @@ folder.
 }
 ```
 
-{{% notice note  %}} [Andrew Connel](https://twitter.com/andrewconnell) has a great
+{{< notice note  >}} [Andrew Connel](https://twitter.com/andrewconnell) has a great
 [blog post](https://www.voitanos.io/blog/use-different-typescript-versions-in-sharepoint-framework-projects/) on how to
 ensure you have the right version of the compiler based on the version of Typescript you want to play with. I definitely
 recommend to have a look! {{% /notice %}}
