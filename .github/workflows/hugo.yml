@@ -58,8 +58,7 @@ jobs:
         run: |
           cd site && hugo \
             --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --minify"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
